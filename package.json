@@ -1,0 +1,21 @@
+{  
+  "name": "mubashir516_cli-quiz",
+  "version": "1.0.0",
+  "description": "I have Creating a Cli Quiz Project",
+  "main": "index.js",
+  "type": "module",
+  "bin": "quizGame.js",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Mubashir",
+  "license": "ISC",
+
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.3.4"
+  }
+}
